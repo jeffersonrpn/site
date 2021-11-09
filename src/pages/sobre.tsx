@@ -20,6 +20,8 @@ export default function Index() {
           property="og:description"
           content="DadosJusBr é uma plataforma que realiza a libertação continua de dados de remuneração de sistema de justiça brasileiro."
         />
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="#3E5363" />
       </Head>
       <Nav />
       <div className="container">
